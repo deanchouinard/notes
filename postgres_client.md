@@ -24,3 +24,9 @@ config :minishop, Minishop.Repo,
 #  hostname: "localhost",
   hostname: "dbserver",
   pool_size: 10
+
+
+### Env vars
+Used the source command in .bashrc to load some env vars for logging into
+psql. See the env vars file.
+
